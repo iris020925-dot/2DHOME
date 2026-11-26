@@ -1755,7 +1755,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::WeaponSlot
   projectileTemplate: {fileID: 5836616507323881186, guid: 0b73360917404ac4cb85cec2b906e887, type: 3}
   firePoint: {fileID: 1990616039}
-  projectileSpeed: 10
+  projectileSpeed: 5
   attackRange: 10
   enemyTag: Enemy
   attackInterval: 0.5
